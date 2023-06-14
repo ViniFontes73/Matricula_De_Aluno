@@ -1,5 +1,5 @@
 #Prova 2
-#Grupo Vinicius Fontes 25388
+#Nome Vinicius Fontes 25388
 # Função para obter o valor atual do contador de matrícula
 def obter_contador():
     try:
