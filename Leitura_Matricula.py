@@ -1,4 +1,4 @@
-#Grupo Vinicius Fontes 25388
+#Nome Vinicius Fontes 25388
 # ler o arquivo de texto
 print("Olá usuario, como você deseja filtrar: ")
 print("Opção 1 = Matrícula")
